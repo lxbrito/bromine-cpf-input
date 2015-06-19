@@ -17,7 +17,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com//bromine-cpf-input.git"
+    "url": "git://github.com/lxbrito/bromine-cpf-input.git"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/lxbrito/bromine-cpf-input",
