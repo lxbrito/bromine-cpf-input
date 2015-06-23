@@ -1,6 +1,6 @@
 {
   "name": "bromine-cpf-input",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "An input field for a cpf code",
   "authors": [
     "Leonardo Xavier de Brito"
@@ -9,6 +9,7 @@
     "web-components",
     "polymer",
     "bromine",
+    "cpf",
     "input"
   ],
   "main": [
