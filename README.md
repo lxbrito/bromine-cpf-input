@@ -8,5 +8,4 @@ Example:
 ```html
 <bromine-cpf-input></bromine-cpf-input>
 ```
-This component is based on gold-zip-input and I didn't clean the code yet, specially for the license parts.
-If I misused the Polymer or Google name, or didn't credit properly some code, please contact-me.
+This component is based on gold-zip-input.
